@@ -9,3 +9,4 @@
 - Languages: C++, JavaScript, HTML/CSS
 - Tools: VS Code, Git/GitHub
 -
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aryankhalati&theme=dark)](https://git.io/streak-stats)
